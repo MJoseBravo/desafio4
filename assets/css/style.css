@@ -1,0 +1,38 @@
+body {
+    font-family: 'roboto';
+    font-weight: lighter;   
+}
+
+.logo {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 5%;
+    height: auto;
+    max-width: 8em;
+    width: 30%;
+}
+
+.direccion {
+    font-size: 13px;
+}
+
+.custombuttom {
+    width: 112px;
+    height: 40px;
+}
+
+.horizontalrule {
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+ul {
+    list-style: none;
+    padding-left: 1rem;
+}
+
+.imgfooter {
+    width: 25%;
+    max-width: 6em;
+}
